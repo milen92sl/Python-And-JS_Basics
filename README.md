@@ -1,2 +1,2 @@
-# JS-Basics-SoftUni
-Basic problem solving with JS
+# Python and JS_Basics
+ Basics of Phyton and Java Script
